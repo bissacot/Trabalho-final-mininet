@@ -1,6 +1,6 @@
 # Trabalho Final Mininet
 
-Aluno: Gabriel Bissacot Fraguas
+Aluno: Gabriel Bissacot Fraguas e Henrique Fonseca
 
 ## Exercício 1
 - Topologia linear com 8 switches
